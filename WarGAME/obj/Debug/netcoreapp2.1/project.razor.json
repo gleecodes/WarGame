@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/WAR.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
